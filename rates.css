@@ -1,0 +1,72 @@
+header{
+  text-align: center;
+  padding: 15px;
+  font-size: 30px;
+  border-bottom: 5px solid #000000;
+
+  color: #aaaaaa;
+  background-color: #000077;
+  text-align: center;
+  font-size: 30px;
+  border-bottom: 5px solid #aaaaaa;
+  padding: 10px;
+}
+
+nav{
+  float: left;
+  width: 200px;
+
+  color: #aaaaaa;
+  background-color: #007700;
+  width: 125px;
+  height: 100%;
+  display: inline-block;
+  font-size: 18px;
+  float: left;
+}
+
+a{
+  color: #000000;
+}
+
+.persondiv{
+  border-radius: 5px;
+  background-color: #7777ff;
+  margin: 10px;
+  padding: 10px;
+  width: 500px;
+}
+
+#content{
+  margin-left: 200px;
+}
+
+.rates{
+  height: 50px;
+}
+
+.hourly{
+  position: absolute;
+}
+
+.annual{
+  margin-left: 150px;
+  position: absolute;
+}
+
+.perBit{
+  margin-left: 300px;
+  position: absolute;
+}
+
+aside {
+       color: white;
+       background-color: green;
+       float:right;
+       height:100%;
+       width:125px;
+       display: inline-block;
+       text-align:center;
+       vertical-align:top;
+       float: right;
+     }
